@@ -2,4 +2,4 @@
 ## Visualization
 
 Self PR
-[Imgur](https://i.imgur.com/GlklByf.png)
+![Imgur](https://i.imgur.com/GlklByf.png)
