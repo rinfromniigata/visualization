@@ -19,7 +19,7 @@
 最近はStudio Oneを触ってたりする
 
 ## Self PR
-![Imgur](https://i.imgur.com/YRObfHx.png)
+![Imgur](https://i.imgur.com/c9I5Vq8.png)
 
 ### 24年
 ![Imgur](https://i.imgur.com/GlklByf.png)
